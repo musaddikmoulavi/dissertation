@@ -111,7 +111,6 @@ protobuf==4.25.2
 psutil==5.9.6
 pure-eval==0.2.2
 py-cpuinfo==9.0.0
-pyarrow==16.1.0
 pycparser==2.21
 pydeck==0.9.1
 pyee==11.1.0
@@ -173,6 +172,5 @@ websockets==10.4
 Werkzeug==3.0.1
 wheel==0.42.0
 widgetsnbextension==4.0.9
-xgboost==2.1.0
 yfinance==0.2.40
 zipp==3.18.1
